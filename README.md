@@ -1,4 +1,4 @@
-# 🌸 BlushMart
+# 🌸 YsabelShop
 
 An original pink-aesthetic e-commerce marketplace concept, built with React + Vite. Inspired by the *features* of popular marketplace apps (search, categories, cart, delivery options, checkout) but with entirely original branding, copy, and a soft blush/rose/cream visual identity.
 
